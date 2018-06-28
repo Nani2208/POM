@@ -1,4 +1,4 @@
-# Easily Understand Page object model(POM) for freshers
+# Easily Understand Page object model [POM]
 
 Using page object model eliminate the duplicate test code.
 
